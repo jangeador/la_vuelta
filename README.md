@@ -23,11 +23,11 @@ pip install uv
 Sigue estos pasos para ejecutar el juego:
 
 1. Clona o descarga los archivos del repositorio en tu computadora.
-2. Abre una terminal y navega hasta la carpeta donde se encuentra el archivo `dominican_rpg_journey.py`.
+2. Abre una terminal y navega hasta la carpeta donde se encuentra el archivo `main.py`.
 3. Ejecuta el archivo con el siguiente comando:
 
 ```sh
-python3 dominican_rpg_journey.py
+python3 main.py
 ```
 
 ## Instrucciones del Juego
