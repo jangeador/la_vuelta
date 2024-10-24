@@ -1,6 +1,8 @@
-# Dominican RPG Adventure Game
+# La Vuelta. Dominican RPG Adventure Game
 
-Bienvenidos al "Juego de Aventuras de los Dominicanos". Este es un juego de aventura basado en texto donde los jugadores asumen el papel de un grupo de amigos dominicanos intentando llegar a los Estados Unidos. Se enfrentarán a diferentes desafíos a lo largo del camino y deberán tomar decisiones difíciles para sobrevivir.
+Bienvenidos al "Juego de La Vuelta". Este es un juego de aventura basado en texto donde los jugadores asumen el papel de un grupo de amigos dominicanos intentando llegar a los Estados Unidos. Se enfrentarán a diferentes desafíos a lo largo del camino y deberán tomar decisiones difíciles para sobrevivir.
+
+Y recuerda: "La Vuelta es por Mexico".
 
 ## Requisitos
 
